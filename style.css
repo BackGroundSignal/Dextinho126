@@ -1,0 +1,25 @@
+body{
+    background-color: #23272A;
+    font-family:Arial, Helvetica, sans-serif;
+    color:white;
+}
+#banner{
+    margin-top: -21px;
+    margin-left: -8px;
+    width:101.215%;
+}
+p{
+    font-size: 20px;
+}
+#title{
+    margin-top: -100px;
+    margin-left: 100px;
+}
+#most{
+    position: absolute;
+    left: 55%;
+    font-size: 40px;
+}
+#bottomPFP{
+    height: 80px;
+}
